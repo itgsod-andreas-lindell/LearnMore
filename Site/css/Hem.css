@@ -1,0 +1,103 @@
+#logobar {
+    background-color: gray;
+    width: 100%;
+    height: 98px;
+    margin-top: -10px;
+
+}
+#logo {
+    width: 100px;
+    height: 98px;
+
+}
+#sloganbar {
+    background-color: deepskyblue;
+    width: 100%;
+    height: 140px;
+    box-shadow: 5px 5px 5px #888888;
+}
+#funktioner {
+    height: 450px;
+    width: 160px;
+    background-color: gray;
+    float: right;
+    font-size: 30px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px #888888;
+
+}
+#material {
+    color: whitesmoke;
+    font-family: fantasy;
+    text-align: center;
+    border-style: solid;
+    border-color: deepskyblue;
+}
+#material:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+
+}
+#betyg {
+    color: whitesmoke;
+    font-family: fantasy;
+    text-align: center;
+    border-style: solid;
+    border-color: deepskyblue;
+}
+#betyg:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
+#schema {
+    color: whitesmoke;
+    font-family: fantasy;
+    text-align: center;
+    border-style: solid;
+    border-color: deepskyblue;
+}
+#schema:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
+#matsedel {
+    color: whitesmoke;
+    font-family: fantasy;
+    text-align: center;
+    border-style: solid;
+    border-color: deepskyblue;
+}
+#matsedel:hover {
+    text-decoration: underline;
+    color: deepskyblue;
+
+}
+#uppgifter {
+    height: 350px;
+    margin: 10px;
+    width: 280px;
+    float: right;
+    background-color: gray;
+    box-shadow: 5px 5px 5px #888888;
+    border-color: deepskyblue;
+    border-style: solid;
+
+
+}
+.container {
+    width:100%;
+    border:2px solid #d3d3d3;
+}
+.container div {
+    width:98%;
+}
+.container .header {
+    background-color:#d3d3d3;
+    padding: 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.container .content {
+    display: none;
+    padding : 5px;
+}
